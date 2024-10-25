@@ -1,0 +1,18 @@
+Backend ---   http://127.0.0.1:8000/swagger/
+              http://127.0.0.1:8000/redoc/
+
+
+Frontend ----  http://localhost:3000/api-docs
+
+
+docker 
+	-run docker --docker-compose up
+	-backend ---http://localhost:8000/admin/
+
+        Frontend ---http://localhost:3000/
+
+
+Admin login-admin -12345  create a superuser for the admin acess.
+
+
+About HireWise leverages advanced AI to transform and simplify the hiring experience. Built with React + Vite for the frontend and Django + SQLite3 for the backend, this full-stack application integrates cutting-edge AI technologies, powered by GroqAI, to enhance the recruitment workflow.
