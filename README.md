@@ -1,7 +1,5 @@
 React App
-Built using Dev41
-Overview
-This repository contains a web application built with FastAPI for the backend and React for the frontend. The application is designed to provide a seamless user experience while interacting with the backend services.
+
 
 Table of Contents
 Features
